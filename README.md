@@ -28,3 +28,6 @@ MurasakiOS 2.X (Based on Android 15 Vanilla Ice Cream)
 ```
 MurasakiOS 3 R"X" (Based on Android 16 Baklava)
 ```
+
+# Downloads
+[Releases](https://github.com/AndroDumb/MurasakiOS/releases/)
