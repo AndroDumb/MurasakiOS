@@ -29,6 +29,6 @@ MurasakiOS 2.X (Based on Android 15 Vanilla Ice Cream)
 MurasakiOS 3 R"X" (Based on Android 16 Baklava)
 ```
 # Support and Updates
-[AndroDumb Stuff](https://t.me/androdumbstuff) | [AndroDumb Chat](https://t.me/bendygsi_chat)
+[AndroDumb Stuff](https://t.me/androdumbstuff) | [AndroDumb Chat](https://t.me/bendygsichat)
 # Downloads
 [Releases](https://github.com/AndroDumb/MurasakiOS/releases/)
