@@ -9,4 +9,4 @@ Lead Developer [AndroDumb](https://github.com/AndroDumb)
 
 # types of versions
 
-'''MurasakiOS L (maybe it will be added in the future)'''
+’’’MurasakiOS L (maybe it will be added in the future)’’’
