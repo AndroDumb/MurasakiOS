@@ -12,3 +12,11 @@ Lead Developer [AndroDumb](https://github.com/AndroDumb)
 ```
 MurasakiOS L (maybe it will be added in the future)
 ```
+
+```
+MurasakiOS T (maybe it will be added in the future)
+```
+
+```
+MurasakiOS 1.0 (Based on Android 14 Upside Down Cake)
+```
