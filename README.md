@@ -6,3 +6,6 @@
 Lead Developer [AndroDumb](https://github.com/AndroDumb)
 
 **Maintained versions: A14-A16**
+
+# types of versions
+
