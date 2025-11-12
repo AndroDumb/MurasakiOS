@@ -1,5 +1,5 @@
-![Acerca](Banner.jpg)
 # MurasakiOS
+![Acerca](Banner.jpg)
 
 *Official repository of MurasakiOS!*
 Lead Developer [AndroDumb](https://github.com/AndroDumb)
