@@ -18,5 +18,13 @@ MurasakiOS T (maybe it will be added in the future)
 ```
 
 ```
-MurasakiOS 1.0 (Based on Android 14 Upside Down Cake)
+MurasakiOS 1.X (Based on Android 14 Upside Down Cake)
+```
+
+```
+MurasakiOS 2.X (Based on Android 15 Vanilla Ice Cream)
+```
+
+```
+MurasakiOS 3 R"X" (Based on Android 16 Baklava)
 ```
